@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "name": "Spaghetti Carbonara",
+    "slug": "spaghetti-carbonara",
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b",
+    "steps": [
+      "Cook spaghetti in salted boiling water until al dente.",
+      "Fry pancetta until crisp.",
+      "Mix eggs and grated Parmesan in a bowl.",
+      "Combine hot pasta with pancetta, remove from heat, and stir in the egg mixture quickly.",
+      "Season with salt and pepper, then serve immediately."
+    ],
+    "persons": 2,
+    "ingredients": [
+      { "name": "Spaghetti", "amount": "200", "unit": "g" },
+      { "name": "Pancetta", "amount": "100", "unit": "g" },
+      { "name": "Eggs", "amount": "2", "unit": "" },
+      { "name": "Parmesan cheese", "amount": "50", "unit": "g" },
+      { "name": "Salt", "amount": "1", "unit": "tsp" },
+      { "name": "Black pepper", "amount": "0.5", "unit": "tsp" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chicken Tikka Masala",
+    "slug": "chicken-tikka-masala",
+    "image": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?q=80&w=1617&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "steps": [
+      "Marinate chicken in yogurt and spices for at least 2 hours.",
+      "Grill or pan-fry the chicken pieces until cooked through.",
+      "Sauté onions, garlic, and ginger in butter.",
+      "Add tomato puree, cream, and spices; simmer to make the sauce.",
+      "Add the cooked chicken to the sauce and simmer for 10 minutes before serving."
+    ],
+    "persons": 4,
+    "ingredients": [
+      { "name": "Chicken breast", "amount": "500", "unit": "g" },
+      { "name": "Yogurt", "amount": "150", "unit": "g" },
+      { "name": "Garam masala", "amount": "2", "unit": "tsp" },
+      { "name": "Tomato puree", "amount": "200", "unit": "ml" },
+      { "name": "Cream", "amount": "100", "unit": "ml" },
+      { "name": "Onion", "amount": "1", "unit": "" },
+      { "name": "Garlic cloves", "amount": "2", "unit": "" },
+      { "name": "Ginger", "amount": "1", "unit": "tbsp" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Greek Salad",
+    "slug": "greek-salad",
+    "image": "https://images.unsplash.com/photo-1599021419847-d8a7a6aba5b4?q=80&w=979&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "steps": [
+      "Chop cucumbers, tomatoes, red onion, and bell pepper into bite-sized pieces.",
+      "Add olives and feta cheese to the bowl.",
+      "Whisk olive oil, lemon juice, oregano, salt, and pepper for the dressing.",
+      "Pour the dressing over the salad and toss gently.",
+      "Serve immediately or chill for 15 minutes."
+    ],
+    "persons": 2,
+    "ingredients": [
+      { "name": "Cucumber", "amount": "1", "unit": "" },
+      { "name": "Tomatoes", "amount": "2", "unit": "" },
+      { "name": "Red onion", "amount": "0.5", "unit": "" },
+      { "name": "Green bell pepper", "amount": "1", "unit": "" },
+      { "name": "Feta cheese", "amount": "100", "unit": "g" },
+      { "name": "Black olives", "amount": "50", "unit": "g" },
+      { "name": "Olive oil", "amount": "2", "unit": "tbsp" },
+      { "name": "Lemon juice", "amount": "1", "unit": "tbsp" },
+      { "name": "Oregano", "amount": "1", "unit": "tsp" },
+      { "name": "Salt", "amount": "0.5", "unit": "tsp" },
+      { "name": "Black pepper", "amount": "0.25", "unit": "tsp" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Beef Stroganoff",
+    "slug": "beef-stroganoff",
+    "image": "https://plus.unsplash.com/premium_photo-1668616814977-05202080759c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "steps": [
+      "Slice beef thinly and season with salt and pepper.",
+      "Sauté onions and mushrooms in butter until soft.",
+      "Add beef and cook until browned.",
+      "Stir in sour cream and Dijon mustard, simmer for 5 minutes.",
+      "Serve hot over egg noodles or rice."
+    ],
+    "persons": 3,
+    "ingredients": [
+      { "name": "Beef sirloin", "amount": "400", "unit": "g" },
+      { "name": "Mushrooms", "amount": "150", "unit": "g" },
+      { "name": "Onion", "amount": "1", "unit": "" },
+      { "name": "Butter", "amount": "2", "unit": "tbsp" },
+      { "name": "Sour cream", "amount": "150", "unit": "ml" },
+      { "name": "Dijon mustard", "amount": "1", "unit": "tsp" },
+      { "name": "Salt", "amount": "0.5", "unit": "tsp" },
+      { "name": "Black pepper", "amount": "0.25", "unit": "tsp" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Vegetable Stir Fry",
+    "slug": "vegetable-stir-fry",
+    "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "steps": [
+      "Chop all vegetables into bite-sized pieces.",
+      "Heat oil in a wok and add garlic and ginger.",
+      "Add vegetables and stir-fry for 5 minutes.",
+      "Add soy sauce and sesame oil, stir to combine.",
+      "Serve hot with rice or noodles."
+    ],
+    "persons": 2,
+    "ingredients": [
+      { "name": "Broccoli", "amount": "100", "unit": "g" },
+      { "name": "Carrot", "amount": "1", "unit": "" },
+      { "name": "Bell pepper", "amount": "1", "unit": "" },
+      { "name": "Soy sauce", "amount": "2", "unit": "tbsp" },
+      { "name": "Sesame oil", "amount": "1", "unit": "tsp" },
+      { "name": "Garlic", "amount": "2", "unit": "cloves" },
+      { "name": "Ginger", "amount": "1", "unit": "tsp" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Shrimp Scampi",
+    "slug": "shrimp-scampi",
+    "image": "https://images.unsplash.com/photo-1625943553852-781c6dd46faa?q=80&w=1045&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "steps": [
+      "Cook pasta according to package instructions.",
+      "Sauté garlic in butter and olive oil.",
+      "Add shrimp and cook until pink.",
+      "Add lemon juice and parsley.",
+      "Toss with pasta and serve immediately."
+    ],
+    "persons": 2,
+    "ingredients": [
+      { "name": "Shrimp", "amount": "200", "unit": "g" },
+      { "name": "Pasta", "amount": "150", "unit": "g" },
+      { "name": "Garlic", "amount": "3", "unit": "cloves" },
+      { "name": "Butter", "amount": "2", "unit": "tbsp" },
+      { "name": "Olive oil", "amount": "1", "unit": "tbsp" },
+      { "name": "Lemon juice", "amount": "1", "unit": "tbsp" },
+      { "name": "Parsley", "amount": "1", "unit": "tbsp" }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Margherita Pizza",
+    "slug": "margherita-pizza",
+    "image": "https://images.unsplash.com/photo-1613564834361-9436948817d1?q=80&w=743&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "steps": [
+      "Preheat oven to 250°C.",
+      "Roll out pizza dough on a floured surface.",
+      "Spread tomato sauce evenly over the dough.",
+      "Add mozzarella slices and fresh basil leaves.",
+      "Bake for 8–10 minutes until crust is golden."
+    ],
+    "persons": 2,
+    "ingredients": [
+      { "name": "Pizza dough", "amount": "1", "unit": "" },
+      { "name": "Tomato sauce", "amount": "100", "unit": "ml" },
+      { "name": "Mozzarella", "amount": "100", "unit": "g" },
+      { "name": "Fresh basil", "amount": "5", "unit": "leaves" },
+      { "name": "Olive oil", "amount": "1", "unit": "tbsp" }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Tacos al Pastor",
+    "slug": "tacos-al-pastor",
+    "image": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "steps": [
+      "Marinate pork in pineapple juice, chili, and spices overnight.",
+      "Grill or pan-fry the pork until cooked.",
+      "Warm tortillas on a pan.",
+      "Fill tortillas with pork, pineapple, onion, and cilantro.",
+      "Serve with lime wedges."
+    ],
+    "persons": 3,
+    "ingredients": [
+      { "name": "Pork shoulder", "amount": "400", "unit": "g" },
+      { "name": "Pineapple juice", "amount": "100", "unit": "ml" },
+      { "name": "Tortillas", "amount": "6", "unit": "" },
+      { "name": "Onion", "amount": "1", "unit": "" },
+      { "name": "Cilantro", "amount": "2", "unit": "tbsp" },
+      { "name": "Lime", "amount": "1", "unit": "" }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Lentil Soup",
+    "slug": "lentil-soup",
+    "image": "https://plus.unsplash.com/premium_photo-1712678665743-15e3833da37e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "steps": [
+      "Sauté onions, carrots, and celery in olive oil.",
+      "Add garlic and spices.",
+      "Stir in lentils, tomatoes, and vegetable broth.",
+      "Simmer for 30 minutes until lentils are tender.",
+      "Season with salt and pepper before serving."
+    ],
+    "persons": 4,
+    "ingredients": [
+      { "name": "Lentils", "amount": "200", "unit": "g" },
+      { "name": "Onion", "amount": "1", "unit": "" },
+      { "name": "Carrot", "amount": "1", "unit": "" },
+      { "name": "Celery stalk", "amount": "1", "unit": "" },
+      { "name": "Garlic", "amount": "2", "unit": "cloves" },
+      { "name": "Vegetable broth", "amount": "750", "unit": "ml" },
+      { "name": "Tomatoes", "amount": "2", "unit": "" }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Pad Thai",
+    "slug": "pad-thai",
+    "image": "https://images.unsplash.com/photo-1637806930600-37fa8892069d?q=80&w=685&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "steps": [
+      "Soak rice noodles in warm water until soft.",
+      "Fry tofu, shrimp, or chicken with garlic and shallots.",
+      "Add beaten eggs and scramble lightly.",
+      "Add noodles, sauce, and bean sprouts; toss well.",
+      "Garnish with peanuts, lime, and cilantro."
+    ],
+    "persons": 3,
+    "ingredients": [
+      { "name": "Rice noodles", "amount": "200", "unit": "g" },
+      { "name": "Tofu", "amount": "100", "unit": "g" },
+      { "name": "Eggs", "amount": "2", "unit": "" },
+      { "name": "Bean sprouts", "amount": "50", "unit": "g" },
+      { "name": "Peanuts", "amount": "2", "unit": "tbsp" },
+      { "name": "Pad Thai sauce", "amount": "3", "unit": "tbsp" },
+      { "name": "Lime", "amount": "1", "unit": "" }
+    ]
+  }
+]

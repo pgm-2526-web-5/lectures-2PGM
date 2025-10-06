@@ -1,0 +1,7 @@
+.page-title {
+  margin: 0;
+  padding: 0 0 1rem 0;
+  font-size: var(--text-size-lg);
+  font-weight: 600;
+  color: var(--primary-800);
+}

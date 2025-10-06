@@ -1,0 +1,31 @@
+.header {
+  width: 100%;
+
+  padding: 1rem 0;
+  background-color: var(--primary-100);
+}
+
+.header__container {
+  display: flex;
+  align-items: center;
+}
+
+.header__nav {
+  display: flex;
+  padding: 0;
+  margin-left: auto;
+}
+
+.header__nav-item {
+  list-style-type: none;
+}
+
+.header__link {
+  padding: 0.5rem 1rem;
+  color: var(--primary-500);
+}
+
+.header__link--active {
+  color: var(--primary-800);
+  font-weight: 600;
+}
