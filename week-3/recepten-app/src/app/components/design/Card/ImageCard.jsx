@@ -1,3 +1,4 @@
+import PropTypes from "prop-types";
 import "./ImageCard.css";
 
 const ImageCard = ({ image, title }) => {
@@ -7,6 +8,11 @@ const ImageCard = ({ image, title }) => {
       <h2 className="image-card__title">{title}</h2>
     </div>
   );
+};
+
+ImageCard.propTypes = {
+  image: PropTypes.string.isRequired,
+  title: PropTypes.string.isRequired,
 };
 
 export default ImageCard;
