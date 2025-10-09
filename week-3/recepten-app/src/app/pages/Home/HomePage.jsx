@@ -5,7 +5,7 @@ import Grid from "@design/Grid/Grid";
 import ImageCard from "@design/Card/ImageCard";
 import { Link } from "react-router";
 
-const Home = () => {
+const HomePage = () => {
   return (
     <Container>
       <PageTitle>Laatste recepten</PageTitle>
@@ -22,4 +22,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default HomePage;

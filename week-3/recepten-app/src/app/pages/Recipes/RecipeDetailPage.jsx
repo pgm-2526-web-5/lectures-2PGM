@@ -1,4 +1,4 @@
-import "./RecipeDetail.css";
+import "./RecipeDetailPage.css";
 import { Link, useParams } from "react-router";
 import data from "../../../data/recipes.json";
 import PageTitle from "@design/Typography/PageTitle";
