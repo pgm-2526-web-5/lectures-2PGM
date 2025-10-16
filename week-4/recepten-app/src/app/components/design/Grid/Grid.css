@@ -1,0 +1,25 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(var(--grid-min-max), 1fr));
+  gap: var(--grid-gap);
+  padding: 0;
+}
+
+.grid > * {
+  list-style-type: none;
+}
+
+.grid--default {
+  --grid-min-max: 16rem;
+  --grid-gap: 1.5rem;
+}
+
+.grid--small {
+  --grid-min-max: 12rem;
+  --grid-gap: 0.5rem;
+}
+
+.grid--large {
+  --grid-min-max: 20rem;
+  --grid-gap: 2rem;
+}
