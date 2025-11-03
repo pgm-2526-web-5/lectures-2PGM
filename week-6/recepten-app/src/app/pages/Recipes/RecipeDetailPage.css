@@ -1,0 +1,11 @@
+.recipe-detail {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+}
+
+.recipe-image {
+  width: 100%;
+  max-width: 32rem;
+  height: auto;
+}

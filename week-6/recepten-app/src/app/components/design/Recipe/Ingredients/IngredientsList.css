@@ -1,0 +1,13 @@
+.ingredients-list {
+}
+
+.ingredients-list__header {
+  display: flex;
+  gap: 0.5rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+
+  span {
+    margin-right: auto;
+  }
+}
